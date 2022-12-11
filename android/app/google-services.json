@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857070735289",
+    "project_id": "kamustanamanobat",
+    "storage_bucket": "kamustanamanobat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857070735289:android:242a00c0678c5477973068",
+        "android_client_info": {
+          "package_name": "com.kamustanamanobat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857070735289-7akmv73u05g5cb1g493145143hg9rnnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYw7WR1Cl1MLJuZrNBg2u373WlVgDunEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857070735289-7akmv73u05g5cb1g493145143hg9rnnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
